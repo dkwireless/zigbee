@@ -7,7 +7,7 @@ category: switch
 supports: on/off
 zigbeemodel: ['TS0001', '_TZ3000_hktqahrq','TS000F','_TZ3000_m9af2l6g']
 compatible: [z2m]
-z2m: TS0121_plug
+z2m: WHD02
 mlink: 
 link: https://www.aliexpress.com/item/1005002716718315.html
 link2: https://www.aliexpress.com/item/1005002432938941.html
